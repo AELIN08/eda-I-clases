@@ -7,7 +7,7 @@ int main()
 
 	int ans;
 	marks = (int*)malloc(sizeof(
-		int)); 
+int)); 
 	if (marks == NULL) {
 		printf("Memoria no puede ser asignada.");
 	}
